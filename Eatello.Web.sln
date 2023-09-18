@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eatello.Web", "Eatello.Web\Eatello.Web.csproj", "{EE7D60A0-525B-4CFE-8759-981903F75C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eatello.Models", "Eatello.Models\Eatello.Models.csproj", "{515511DA-0834-46EA-BC4F-D4B4F14D82F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eatello.Repository", "Eatello.Repository\Eatello.Repository.csproj", "{48BDA9D0-1D59-469A-B17E-EBE9A9722D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eatello.Services", "Eatello.Services\Eatello.Services.csproj", "{860083A6-34BE-42B1-9C22-B823C0C2AB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7D60A0-525B-4CFE-8759-981903F75C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7D60A0-525B-4CFE-8759-981903F75C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7D60A0-525B-4CFE-8759-981903F75C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7D60A0-525B-4CFE-8759-981903F75C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515511DA-0834-46EA-BC4F-D4B4F14D82F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515511DA-0834-46EA-BC4F-D4B4F14D82F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515511DA-0834-46EA-BC4F-D4B4F14D82F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515511DA-0834-46EA-BC4F-D4B4F14D82F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BDA9D0-1D59-469A-B17E-EBE9A9722D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BDA9D0-1D59-469A-B17E-EBE9A9722D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BDA9D0-1D59-469A-B17E-EBE9A9722D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BDA9D0-1D59-469A-B17E-EBE9A9722D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860083A6-34BE-42B1-9C22-B823C0C2AB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860083A6-34BE-42B1-9C22-B823C0C2AB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860083A6-34BE-42B1-9C22-B823C0C2AB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860083A6-34BE-42B1-9C22-B823C0C2AB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8FE7B13-F995-4E95-AEDD-C6F3B17157A6}
+	EndGlobalSection
+EndGlobal
